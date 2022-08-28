@@ -1,0 +1,7 @@
+server:
+ ssl:
+  key-alias: classpath: springboot-first-app
+  key-store-type: JKS
+  key-password: password
+
+ port: 7777
